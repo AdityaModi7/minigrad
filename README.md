@@ -114,3 +114,6 @@ pytest tests/ -v
 
 This is literally how PyTorch works under the hood — just at a much smaller scale.
 
+## License
+
+MIT
